@@ -1,3 +1,9 @@
+#About the Project
+
+This project is just a overview about react for learning and implements in the future.
+
+Credits:https://www.youtube.com/watch?v=ErjWNvP6mko&ab_channel=FelipeRocha%E2%80%A2dicasparadevs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
