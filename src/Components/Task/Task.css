@@ -1,0 +1,45 @@
+.task-container{
+    background-color: #444;
+    margin: 8px 0;
+    padding: 15px 20px;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-between;
+    color: #eee;
+    align-items: center;
+}
+
+.buttons-container{
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+
+.task-title:hover{
+    cursor: pointer;
+    color: #a7a7a7;
+}
+
+
+.remove-task-button{
+    background-color: #444;
+    border: none;
+    font-size: 20px;
+    color:  #ff3434;
+    cursor: pointer;
+}
+
+.remove-task-button:hover{
+    color: #ce0000;
+
+}
+
+.see-task-button{
+    background-color: #444;
+    border: none;
+    font-size: 20px;
+    color:  #ff3434;
+    cursor: pointer;
+}
